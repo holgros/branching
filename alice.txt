@@ -1,1 +1,2 @@
 Alice skriver i sitt dokument.
+Alice skriver lite till i sitt dokument, ovetandes om att Bob skriver samtidigt.
